@@ -1,0 +1,9 @@
+[project]
+name = "project-07-multi-agent-web-research-and-synthesis-engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "tavily-python>=0.7.26",
+]
